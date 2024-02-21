@@ -8,7 +8,6 @@ Welcome to the Stone Paper Scissors Game! This is a classic game implemented in 
 
 ```bash
 git clone https://github.com/Ankita-Thakur-21abc/stone-paper-scissors-game.git
-## Getting Started
 
 ### Open `index.html`
 
